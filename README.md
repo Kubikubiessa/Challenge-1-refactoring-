@@ -1,8 +1,8 @@
 # Challenge-1-refactoring-
 
 ## Description
-In this repo I refactor an existing code for the the webpage of Horiseon in order to improve accessibility. 
-I engaged in ths projcet for practice, specifically to learn how to "clean up," organize, and modify HTML code so that it will better serve accessibility and readability. I learned about the difference of semantic and none-semantic HTML elements and the importance of alt attributes for images in regard to accessibility, and the sequential order of elements and their potenial overwriting, clear and concise title elements in regard to search engine optimization, as well as well-structured code for improved readability. 
+In this repo I refactor an existing code for the webpage of Horiseon in order to improve accessibility. 
+I engaged in ths projcet for practice, specifically to learn how to "clean up," organize, and modify HTML code, so that it will better serve accessibility and readability. I learned about the difference of semantic and none-semantic HTML elements and the importance of alt attributes for images in regard to accessibility and how to implement semantic elements, replacing none-semantic elements without changing the representation of the page.  I learned about the sequential order of elements and their potenial overwriting, clear and concise title elements in regard to search engine optimization, as well as well-structured code for improved readability. 
 
 ## User Story
 AS A bootcamp student
@@ -11,7 +11,7 @@ SO THAT any site I work on is optimized for search engines
 
 
 ## Acceptance Criteria 
-GIVEN a webpage meets accessibility standards
+GIVEN a webpage that needs improvement in accessibility standards
 WHEN I view the source code
 THEN I am able to fix and implement semantic HTML elements
 WHEN I view the structure of the HTML elements
